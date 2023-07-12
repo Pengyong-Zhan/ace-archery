@@ -1,0 +1,12 @@
+$primary: #074355;
+
+.color-circle {
+  width: 30px;
+  height: 30px;
+  margin-top: 8px;
+  border: 2px solid #d8d8d8;
+  border-radius: 50%;
+}
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
